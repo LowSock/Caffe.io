@@ -551,7 +551,7 @@ func _build_backyard() -> void:
 	_house(Vector3(-6.0, 0.0, -16.5), Color(0.92, 0.82, 0.68), Color(0.6, 0.3, 0.25))
 	_house(Vector3(0.0, 0.0, -17.5), Color(0.82, 0.88, 0.8), Color(0.35, 0.4, 0.5))
 	_house(Vector3(6.0, 0.0, -16.5), Color(0.95, 0.88, 0.72), Color(0.5, 0.3, 0.2))
-	_house(Vector3(-12.5, 0.0, -17.0), Color(0.88, 0.8, 0.7), Color(0.45, 0.35, 0.3))
+	_house(Vector3(-2.5, 0.0, -17.0), Color(0.88, 0.8, 0.7), Color(0.45, 0.35, 0.3))
 	_house(Vector3(12.0, 0.0, -17.0), Color(0.82, 0.86, 0.92), Color(0.55, 0.3, 0.3))
 	_house(Vector3(18.0, 0.0, -17.0), Color(0.9, 0.84, 0.7), Color(0.4, 0.3, 0.3))
 
