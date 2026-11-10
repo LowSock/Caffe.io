@@ -1,4 +1,4 @@
-# Kafe Hewan - prototipe (Godot 4.7)
+# Caffe.io - prototipe (Godot 4.7)
 
 Game manajemen kafe minuman 2.5D. Staf dan pelanggan berupa manusia chibi
 low-poly. Semua kode asli; semua model masih placeholder buatan kode.
